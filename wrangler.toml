@@ -6,5 +6,6 @@ compatibility_date = "2024-03-04"
 workers_dev = true
 
 [[d1_databases]]
-database_name = "autoschaderevieuws"
+binding = "DB"  # <--- DEZE REGEL MISTE IN JE SCREENSHOT
+database_name = "autoschadereviews"
 database_id = "9fbaa8b1-650c-4a48-a0df-0a7bfaab220c"
