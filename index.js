@@ -3,7 +3,7 @@ export interface Env {
 }
 
 const corsHeaders = {
-  'Access-Control-Allow-Origin': 'autoschade-veghel.nl','www.autoschade-veghel.nl', // Verander dit later naar 'https://jouwwebsite.nl'
+  'Access-Control-Allow-Origin': 'https://autoschade-veghel.nl/','https://www.autoschade-veghel.nl', // Verander dit later naar 'https://jouwwebsite.nl'
   'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
   'Access-Control-Allow-Headers': 'Content-Type',
 };
