@@ -1,0 +1,10 @@
+name = "autoschade-reviews-api"
+main = "index.js"
+compatibility_date = "2024-03-04"
+
+# Zorgt ervoor dat je Worker als API werkt en snel reageert
+workers_dev = true
+
+[[d1_databases]]
+database_name = "autoschaderevieuws"
+database_id = "9fbaa8b1-650c-4a48-a0df-0a7bfaab220c"
